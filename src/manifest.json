@@ -15,7 +15,28 @@
     "social",
     "travel"
   ],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "screenshots/home",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/room",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/contact",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/about",
+      "sizes": "1280x800",
+      "type": "image/png"
+    }
+  ],
   "icons": [
       {
         "src": "img/android-launchericon-512-512.png",
